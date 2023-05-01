@@ -24,7 +24,7 @@ https://www.youtube.com/watch?v=3L_Hhxuh6Zc
 - C2SIMGUI Editor v2.12.1 User Guide [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIMGUI_User_Guide_v2.12.1.pdf)
 - C2SIM C2 user control v1.0.3 beta derived from C2SIMGUI [link](https://github.com/OpenC2SIM/https---github.com-OpenC2SIM-MSG201CWIX/blob/master/C2SIMcontrolv1.0.3.zip)
 - C2SIM Dashboard v1.0.2 beta derived from C2SIMGUI [link](https://github.com/OpenC2SIM/https---github.com-OpenC2SIM-MSG201CWIX/blob/master/C2SIMdashboardv1.0.1.zip)
-- Latest C2SIMInitialization CWIX2033v3 for editor [link] ("https://github.com/OpenC2SIM/https---github.com-OpenC2SIM-MSG201CWIX/raw/main/CWIX-2023 initializev3.xml")
+- Latest C2SIMInitialization CWIX2033v3 for editor [link] (https://github.com/OpenC2SIM/https---github.com-OpenC2SIM-MSG201CWIX/raw/main/CWIX-2023initializev3.xml)
 
 #### C2SIM Reference Implementation Server
 - Server 4.8.0.x overview documentation [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/MSCOE_Server-22May.pdf)
@@ -49,7 +49,7 @@ https://www.youtube.com/watch?v=3L_Hhxuh6Zc
 #### C2SIM Interface for VR-Forces
 - C2SIM-VRForces Interface v2.28beta for VR-Forces 5.0.1a source code Windows C++ project implements C2SIM schema 1.0.1 including bundled reports [link](https://github.com/OpenC2SIM/https---github.com-OpenC2SIM-MSG201CWIX/blob/master/c2simVRFinterfacev2.29.zip)
 - C2SIM-VRForces Interface v2.28beta for VR-Forces 5.0.1a binary and supplemental files [link](https://github.com/OpenC2SIM/https---github.com-OpenC2SIM-MSG201CWIX/blob/master/Install-C2SIM-VRFv2.29.zip)
-- C2SIM-VRForces Interface v2.30beta for VR-Forces 5.0.2 source code Windows C++ project implements C2SIM schema CWIX2023v1.0.2 including bundled reports [link]https://github.com/OpenC2SIM/https---github.com-OpenC2SIM-MSG201CWIX/raw/main/c2simVRFinterfacev2.30.zip)
+- C2SIM-VRForces Interface v2.30beta for VR-Forces 5.0.2 source code Windows C++ project implements C2SIM schema CWIX2023v1.0.2 including bundled reports [link](https://github.com/OpenC2SIM/https---github.com-OpenC2SIM-MSG201CWIX/raw/main/c2simVRFinterfacev2.30.zip)
 - C2SIM-VRForces Interface v2.30beta for VR-Forces 5.0.2 binary and supplemental files [link](https://github.com/OpenC2SIM/https---github.com-OpenC2SIM-MSG201CWIX/raw/main/Install-C2SIM-VRFv2.30.zip)
 
 #### C2SIM Interface for VBS3
