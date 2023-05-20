@@ -20,11 +20,11 @@ https://www.youtube.com/watch?v=3L_Hhxuh6Zc
 - C2SIMClientLib C++ v4.8.3.1 Windows project source default ProtocolVersion 1.0.1 works with server 4.8.3.1 and up [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C%2B%2BC2SIMClientLibv4.8.3.1.zip)
 
 #### C2SIM GUI Editor
-- C2SIMGUI Editor v2.13.3 works with draft schemata CWIX2023v1.0.2 including bundled reports and with server 4.8.3.2 and later including SystemCommands for server recording and playback [link](https://github.com/OpenC2SIM/https---github.com-OpenC2SIM-MSG201CWIX/blob/master/C2SIMGUIv2.13.3.zip)
+- C2SIMGUI Editor v2.13.4 works with draft schemata CWIX2023v1.0.2 including bundled reports and with server 4.8.3.2 and later including SystemCommands for server recording, playback and checkpoint save/restore [link](https://github.com/OpenC2SIM/https---github.com-OpenC2SIM-MSG201CWIX/blob/master/C2SIMGUIv2.13.4.zip)
 - C2SIMGUI Editor v2.12.1 User Guide [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIMGUI_User_Guide_v2.12.1.pdf)
-- C2SIM C2 user control v1.0.4 beta derived from C2SIMGUI [link](https://github.com/OpenC2SIM/https---github.com-OpenC2SIM-MSG201CWIX/blob/master/C2SIMcontrolv1.0.4.zip)
+- C2SIM C2 user control v1.0.5 beta derived from C2SIMGUI [link](https://github.com/OpenC2SIM/https---github.com-OpenC2SIM-MSG201CWIX/blob/master/C2SIMcontrolv1.0.5.zip)
 - C2SIM Dashboard v1.0.2 beta derived from C2SIMGUI [link](https://github.com/OpenC2SIM/https---github.com-OpenC2SIM-MSG201CWIX/blob/master/C2SIMdashboardv1.0.1.zip)
-- Latest C2SIMInitialization CWIX2033v3 for editor [link] (https://github.com/OpenC2SIM/https---github.com-OpenC2SIM-MSG201CWIX/raw/main/CWIX-2023initializev3.xml)
+- C2SIMInitialization CWIX2033v3 for editor [link] (https://github.com/OpenC2SIM/https---github.com-OpenC2SIM-MSG201CWIX/raw/main/CWIX-2023initializev3.xml)
 
 #### C2SIM Reference Implementation Server
 - Server 4.8.0.x overview documentation [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/MSCOE_Server-22May.pdf)
@@ -33,7 +33,7 @@ https://www.youtube.com/watch?v=3L_Hhxuh6Zc
 - Server 4.8.2.3 user guide documentation [link] (https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIMServerReferenceImplementationDocumentation4.8.2.3.pdf)
 - Server 4.8.3.1 user guide documentation [link] (https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIMServerReferenceImplementationDocumentation4.8.3.1.pdf)
 - Server 4.8.3.1 javadoc documentation [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIMServerv4.8.3.1-apidocs.zip)
-- Server 4.8.3.5 war file bug fixes for C2SIM controls + implements Checkpoint Save/Revert [link](https://github.com/OpenC2SIM/https---github.com-OpenC2SIM-MSG201CWIX/blob/master/C2SIMServer%23%234.8.3.5.war)
+- Server 4.8.3.6 war file bug fixes for C2SIM controls + implements Checkpoint Save/Revert [link](https://github.com/OpenC2SIM/https---github.com-OpenC2SIM-MSG201CWIX/blob/master/C2SIMServer%23%234.8.3.6.war)
 
 #### Latest C2SIM Ontologies and Schema
 - Trial composite schema (Core/SMX/LOX)schema for MSG-201 CWIX 2023 version 1 [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIM_SMX_LOX_CWIX2023v2.xsd)
