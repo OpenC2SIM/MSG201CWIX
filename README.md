@@ -24,7 +24,7 @@ https://www.youtube.com/watch?v=3L_Hhxuh6Zc
 - C2SIMGUI Editor v2.12.1 User Guide [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIMGUI_User_Guide_v2.12.1.pdf)
 - C2SIM C2 user control v1.0.7 beta derived from C2SIMGUI [link](https://github.com/OpenC2SIM/https---github.com-OpenC2SIM-MSG201CWIX/blob/master/C2SIMcontrolv1.0.7.zip)
 - C2SIM Dashboard v1.0.2 beta derived from C2SIMGUI [link](https://github.com/OpenC2SIM/https---github.com-OpenC2SIM-MSG201CWIX/blob/master/C2SIMdashboardv1.0.1.zip)
-- C2SIMInitialization CWIX2033v3 for editor [link] (https://github.com/OpenC2SIM/https---github.com-OpenC2SIM-MSG201CWIX/raw/main/CWIX-2023initializev3.xml)
+- C2SIMInitialization CWIX2032v3 for editor [link] (https://github.com/OpenC2SIM/https---github.com-OpenC2SIM-MSG201CWIX/raw/main/CWIX-2023initializev3.xml)
 
 #### C2SIM Reference Implementation Server
 - Server 4.8.0.x overview documentation [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/MSCOE_Server-22May.pdf)
