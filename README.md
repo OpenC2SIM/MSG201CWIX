@@ -20,7 +20,7 @@ https://www.youtube.com/watch?v=3L_Hhxuh6Zc
 - C2SIMClientLib C++ v4.8.3.1 Windows project source default ProtocolVersion 1.0.1 works with server 4.8.3.1 and up [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C%2B%2BC2SIMClientLibv4.8.3.1.zip)
 
 #### C2SIM GUI Editor
-- C2SIMGUI Editor v2.13.7 like 2.13.5 (see below) but does not filter reports based on Protocol Version [link](https://github.com/OpenC2SIM/https---github.com-OpenC2SIM-MSG201CWIX/blob/master/C2SIMGUIv2.13.7A.zip)
+- C2SIMGUI Editor v2.13.7A like 2.13.5 (see below) but does not filter reports based on Protocol Version [link](https://github.com/OpenC2SIM/https---github.com-OpenC2SIM-MSG201CWIX/blob/master/C2SIMGUIv2.13.7A.zip)
 - C2SIMGUI Editor v2.13.6 like 2.13.5 (see below) but prints first 500 characters of each received STOMP message to console [link](https://github.com/OpenC2SIM/https---github.com-OpenC2SIM-MSG201CWIX/blob/master/C2SIMGUIv2.13.6.zip)
 - C2SIMGUI Editor v2.13.5 works with draft schemata CWIX2023v1.0.2 including bundled reports and with server 4.8.3.2 and later including SystemCommands for server recording, playback and checkpoint save/restore [link](https://github.com/OpenC2SIM/https---github.com-OpenC2SIM-MSG201CWIX/blob/master/C2SIMGUIv2.13.5.zip)
 - C2SIMGUI Editor v2.12.1 User Guide [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIMGUI_User_Guide_v2.12.1.pdf)
