@@ -14,13 +14,15 @@ https://www.youtube.com/watch?v=3L_Hhxuh6Zc
 
 ### C2SIM Downloads
 #### C2SIM Client Library 
-- C2SIMClientLib Java v4.8.3.1 JAR file revised to comply with sequence of elements in C2SIM header per SISO C2SIM standard [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIMClientLibv4.8.3.1.zip) 
+- C2SIMClientLib Java v4.8.4.1 JAR file fixes bugs in C2SIM header and REST sending with C2SIHeader [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIMClientLibv4.8.4.1.zip)
+- C2SIMClientLib Java v4.8.4.1 JAR file only [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIMClientLibv4.8.4.1bindary.zip)
+- C2SIMClientLib Java v4.8.3.1 JAR file revised to comply with sequence of elements in C2SIM header per SISO C2SIM standard [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIMClientLibv4.8.3.1.zip)
 - C2SIMClientLib C++ v4.8.3.1 Windows binary library and header files revised to comply with sequence of elements in C2SIM header per SISO C2SIM standards [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C%2B%2BC2SIMClientLibBinaryv4.8.3.1.zip) 
 - C2SIMClientLib Java v4.8.3.1 javadoc documentation [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIMClient_Libv4.8.3.1-javadoc.zip)
 - C2SIMClientLib C++ v4.8.3.1 Windows project source default ProtocolVersion 1.0.1 works with server 4.8.3.1 and up [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C%2B%2BC2SIMClientLibv4.8.3.1.zip)
 
 #### C2SIM GUI Editor
-- C2SIMGUI Editor v2.13.7B like 2.13.7A (see below) but can display C2SIM Orders received in STOMP [link](https://github.com/OpenC2SIM/https---github.com-OpenC2SIM-MSG201CWIX/blob/master/C2SIMGUIv2.13.7B.zip)
+- C2SIMGUI Editor v2.13.8 like 2.13.7A (see below) but can display C2SIM Orders received in STOMP [link](https://github.com/OpenC2SIM/https---github.com-OpenC2SIM-MSG201CWIX/blob/master/C2SIMGUIv2.13.8.zip)
 - C2SIMGUI Editor v2.13.7A like 2.13.5 (see below) but does not filter reports based on Protocol Version [link](https://github.com/OpenC2SIM/https---github.com-OpenC2SIM-MSG201CWIX/blob/master/C2SIMGUIv2.13.7A.zip)
 - C2SIMGUI Editor v2.13.6 like 2.13.5 (see below) but prints first 500 characters of each received STOMP message to console [link](https://github.com/OpenC2SIM/https---github.com-OpenC2SIM-MSG201CWIX/blob/master/C2SIMGUIv2.13.6.zip)
 - C2SIMGUI Editor v2.13.5 works with draft schemata CWIX2023v1.0.2 including bundled reports and with server 4.8.3.2 and later including SystemCommands for server recording, playback and checkpoint save/restore [link](https://github.com/OpenC2SIM/https---github.com-OpenC2SIM-MSG201CWIX/blob/master/C2SIMGUIv2.13.5.zip)
@@ -35,10 +37,10 @@ https://www.youtube.com/watch?v=3L_Hhxuh6Zc
 - Server 4.8.0.x message flow documentation [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIM%20Server%20Message%20Flow_20200325.pdf)
 - Server 4.8.0.x class diagram documentation [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIM_Server_UML.pdf)
 - Server 4.8.2.3 user guide documentation [link] (https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIMServerReferenceImplementationDocumentation4.8.2.3.pdf)
-- Server 4.8.3.1 user guide documentation [link] (https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIMServerReferenceImplementationDocumentation4.8.3.1.pdf)
+- Server 4.8.4.1 user guide documentation [link] (https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIMServerReferenceImplementationDocumentation4.8.4.1.pdf)
 - Server 4.8.3.1 javadoc documentation [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIMServerv4.8.3.1-apidocs.zip)
 - Server 4.8.3.7 war file bug fixes for C2SIM controls + implements Checkpoint Save/Revert [link](https://github.com/OpenC2SIM/https---github.com-OpenC2SIM-MSG201CWIX/blob/master/C2SIMServer%23%234.8.3.7.war)
-- Server 4.8.3.10 war file bug fixes for C2SIM controls + implements automatic iitialization (for use with late join only) [link](https://github.com/OpenC2SIM/https---github.com-OpenC2SIM-MSG201CWIX/blob/master/C2SIMServer%23%234.8.3.10.war)
+- Server 4.8.4.1 war file bug fixes for C2SIM controls + implements standard iitialization or automatic initialization (for use with late join only) [link](https://github.com/OpenC2SIM/https---github.com-OpenC2SIM-MSG201CWIX/blob/master/C2SIMServer%23%234.8.4.1.war)
 
 #### Latest C2SIM Ontologies and Schema
 - Trial composite schema (Core/SMX/LOX)schema for MSG-201 CWIX 2023 version 1 [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIM_SMX_LOX_CWIX2023v2.xsd)
