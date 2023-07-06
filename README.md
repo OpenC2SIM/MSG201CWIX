@@ -26,7 +26,7 @@ https://www.youtube.com/watch?v=3L_Hhxuh6Zc
 - C2SIMGUI Editor v2.13.7A like 2.13.5 (see below) but does not filter reports based on Protocol Version [link](https://github.com/OpenC2SIM/https---github.com-OpenC2SIM-MSG201CWIX/blob/master/C2SIMGUIv2.13.7A.zip)
 - C2SIMGUI Editor v2.13.6 like 2.13.5 (see below) but prints first 500 characters of each received STOMP message to console [link](https://github.com/OpenC2SIM/https---github.com-OpenC2SIM-MSG201CWIX/blob/master/C2SIMGUIv2.13.6.zip)
 - C2SIMGUI Editor v2.13.5 works with draft schemata CWIX2023v1.0.2 including bundled reports and with server 4.8.3.2 and later including SystemCommands for server recording, playback and checkpoint save/restore [link](https://github.com/OpenC2SIM/https---github.com-OpenC2SIM-MSG201CWIX/blob/master/C2SIMGUIv2.13.5.zip)
-- C2SIMGUI Editor v2.12.1 User Guide [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIMGUI_User_Guide_v2.12.1.pdf)
+- C2SIMGUI Editor v2.13.8 User Guide [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIMGUI_User_Guide_v2.13.8.pdf)
 - C2SIM C2 user control v1.0.7 beta derived from C2SIMGUI [link](https://github.com/OpenC2SIM/https---github.com-OpenC2SIM-MSG201CWIX/blob/master/C2SIMcontrolv1.0.7.zip)
 - - C2SIM C2 user control v1.0.7a beta derived from C2SIMGUI same as v1.0.7 but no look-and-feel adjustment [link](https://github.com/OpenC2SIM/https---github.com-OpenC2SIM-MSG201CWIX/blob/master/C2SIMcontrolv1.0.7a.zip)
 - C2SIM Dashboard v1.0.2 beta derived from C2SIMGUI [link](https://github.com/OpenC2SIM/https---github.com-OpenC2SIM-MSG201CWIX/blob/master/C2SIMdashboardv1.0.1.zip)
