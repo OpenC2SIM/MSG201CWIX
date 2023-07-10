@@ -39,7 +39,7 @@ https://www.youtube.com/watch?v=3L_Hhxuh6Zc
 - Server 4.8.4.1 user guide documentation [link] (https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIMServerReferenceImplementationDocumentation4.8.4.1.pdf)
 - Server 4.8.3.1 javadoc documentation [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIMServerv4.8.3.1-apidocs.zip)
 - Server 4.8.3.7 war file bug fixes for C2SIM controls + implements Checkpoint Save/Revert [link](https://github.com/OpenC2SIM/https---github.com-OpenC2SIM-MSG201CWIX/blob/master/C2SIMServer%23%234.8.3.7.war)
-- Server 4.8.4.2 war file beta bug fixes for C2SIM controls + implements both standard initialization and automatic initialization (for use with late join only) plus logging [link](https://github.com/OpenC2SIM/https---github.com-OpenC2SIM-MSG201CWIX/blob/master/C2SIMServer%23%234.8.4.2.war)
+- Server 4.8.4.3 war file beta bug fixes for C2SIM controls + implements both standard initialization and automatic initialization (for use with late join only) plus logging [link](https://github.com/OpenC2SIM/https---github.com-OpenC2SIM-MSG201CWIX/blob/master/C2SIMServer%23%234.8.4.3.war)
 
 #### Latest C2SIM Ontologies and Schema
 - Trial composite schema (Core/SMX/LOX)schema for MSG-201 CWIX 2023 version 1 [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIM_SMX_LOX_CWIX2023v2.xsd)
