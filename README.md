@@ -21,6 +21,8 @@ https://www.youtube.com/watch?v=3L_Hhxuh6Zc
 - C2SIMClientLib C++ v4.8.3.1 Windows binary library and header files revised to comply with sequence of elements in C2SIM header per SISO C2SIM standards [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C%2B%2BC2SIMClientLibBinaryv4.8.3.1.zip) 
 - C2SIMClientLib Java v4.8.3.1 javadoc documentation [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIMClient_Libv4.8.3.1-javadoc.zip)
 - C2SIMClientLib C++ v4.8.3.1 Windows project source default ProtocolVersion 1.0.1 works with server 4.8.3.14 and up [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C%2B%2BC2SIMClientLibv4.8.3.1.zip)
+- C2SIMClientLib Java v4.8.5.3 works with C2SIMServer v.8.4.15 [link](https://cloud.c4i.gmu.edu/index.php/s/FcPKzaXDWYWCHQW)
+- C2SIMClientLib C++  v4.8.5.3 works with C2SIMServer v.8.4.15 [link](https://cloud.c4i.gmu.edu/index.php/s/6BqFNER5HYfjDRK)
 
 #### C2SIM GUI Editor
 - C2SIMGUI Editor v2.13.22 allows multiple C2SIM Reports per messsage [link](https://cloud.c4i.gmu.edu/index.php/s/GQRdoT6CSxgHFnF)
@@ -43,8 +45,8 @@ https://www.youtube.com/watch?v=3L_Hhxuh6Zc
 - Server 4.8.3.7 war file bug fixes for C2SIM controls + implements Checkpoint Save/Revert [link](https://github.com/OpenC2SIM/https---github.com-OpenC2SIM-MSG201CWIX/blob/master/C2SIMServer%23%234.8.3.7.war)
 - Server 4.8.4.4 war file beta bug fixes for C2SIM controls + implements both standard initialization and automatic initialization (for use with late join only) plus logging [link](https://github.com/OpenC2SIM/https---github.com-OpenC2SIM-MSG201CWIX/blob/master/C2SIMServer%23%234.8.4.4.war)
 - Server 4.8.4.7 in a runnable Docker container [link](https://github.com/OpenC2SIM/https---github.com-OpenC2SIM-MSG201CWIX/c2sim-docker-4.8.4.7.tar.gz)
-- Server 4.8.4.14 war file implements blocking retransmission of identical reports, for a configurable window of time [link](https://cloud.c4i.gmu.edu/index.php/s/EeYWDQsZTkyYxox)
--  Server 4.8.4.14 in a runnable Docker container [link](https://cloud.c4i.gmu.edu/index.php/s/oiX7pQYG66WTxfs)
+- Server 4.8.4.15 war file implements blocking retransmission of identical reports, for a configurable window of time [link](https://cloud.c4i.gmu.edu/index.php/s/PzrDnJ2FEwxNffs)
+- Server 4.8.4.15 in a runnable Docker container [link](https://cloud.c4i.gmu.edu/index.php/s/TW6QPm5cPkEen2Y)
 
 #### Latest C2SIM Ontologies and Schema
 - Trial composite schema (Core/SMX/LOX)schema for MSG-201 CWIX 2023 version 1 [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIM_SMX_LOX_CWIX2023v2.xsd)
