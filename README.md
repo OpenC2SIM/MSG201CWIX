@@ -14,8 +14,7 @@ https://www.youtube.com/watch?v=3L_Hhxuh6Zc
 
 ### C2SIM Downloads
 #### C2SIM Client Library 
-- C2SIMClientLib Java v4.8.5.7 JAR file and open source compatible with C2SIM Server 4.8.4.19 blocks repeated identical reports within a configurable time window [link]
-(https://cloud.c4i.gmu.edu/index.php/s/MYnJkom4qsxqx9H)
+- C2SIMClientLib Java v4.8.5.7 JAR file and open source compatible with C2SIM Server 4.8.4.19 blocks repeated identical reports within a configurable time window [link](https://cloud.c4i.gmu.edu/index.php/s/MYnJkom4qsxqx9H)
 - C++C2SIMClientLib C++ v4.8.5.7 zip file and open source compatible with C2SIM Server 4.8.4.14 blocks repeated identical reports within a configurable time window [link](previous option out of date - waiting on update)
 - C2SIMClientLib Java v4.8.4.1 JAR file only [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIMClientLibv4.8.4.1bindary.zip)
 - C2SIMClientLib Java v4.8.3.1 JAR file revised to comply with sequence of elements in C2SIM header per SISO C2SIM standard [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIMClientLibv4.8.3.1.zip)
