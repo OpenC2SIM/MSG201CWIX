@@ -33,14 +33,14 @@ https://www.youtube.com/watch?v=3L_Hhxuh6Zc
 - C2SIM C2 user control v1.0.7 beta derived from C2SIMGUI [link](https://github.com/OpenC2SIM/https---github.com-OpenC2SIM-MSG201CWIX/blob/master/C2SIMcontrolv1.0.7.zip)
 - - C2SIM C2 user control v1.0.7a beta derived from C2SIMGUI same as v1.0.7 but no look-and-feel adjustment [link](https://github.com/OpenC2SIM/https---github.com-OpenC2SIM-MSG201CWIX/blob/master/C2SIMcontrolv1.0.7a.zip)
 - C2SIM Dashboard v1.0.2 beta derived from C2SIMGUI [link](https://github.com/OpenC2SIM/https---github.com-OpenC2SIM-MSG201CWIX/blob/master/C2SIMdashboardv1.0.1.zip)
-- C2SIMInitialization CWIX2032v3 for editor [link] (https://github.com/OpenC2SIM/https---github.com-OpenC2SIM-MSG201CWIX/raw/main/CWIX-2023initializev3.xml)
+- C2SIMInitialization CWIX2032v3 for editor [link](https://github.com/OpenC2SIM/https---github.com-OpenC2SIM-MSG201CWIX/raw/main/CWIX-2023initializev3.xml)
 
 #### C2SIM Reference Implementation Server
 - Server 4.8.0.x overview documentation [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/MSCOE_Server-22May.pdf)
 - Server 4.8.0.x message flow documentation [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIM%20Server%20Message%20Flow_20200325.pdf)
 - Server 4.8.0.x class diagram documentation [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIM_Server_UML.pdf)
-- Server 4.8.2.3 user guide documentation [link] (https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIMServerReferenceImplementationDocumentation4.8.2.3.pdf)
-- Server 4.8.4.1 user guide documentation [link] (https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIMServerReferenceImplementationDocumentation4.8.4.1.pdf)
+- Server 4.8.2.3 user guide documentation [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIMServerReferenceImplementationDocumentation4.8.2.3.pdf)
+- Server 4.8.4.1 user guide documentation [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIMServerReferenceImplementationDocumentation4.8.4.1.pdf)
 - Server 4.8.3.1 javadoc documentation [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIMServerv4.8.3.1-apidocs.zip)
 - Server 4.8.3.7 war file bug fixes for C2SIM controls + implements Checkpoint Save/Revert [link](https://github.com/OpenC2SIM/https---github.com-OpenC2SIM-MSG201CWIX/blob/master/C2SIMServer%23%234.8.3.7.war)
 - Server 4.8.4.4 war file beta bug fixes for C2SIM controls + implements both standard initialization and automatic initialization (for use with late join only) plus logging [link](https://github.com/OpenC2SIM/https---github.com-OpenC2SIM-MSG201CWIX/blob/master/C2SIMServer%23%234.8.4.4.war)
