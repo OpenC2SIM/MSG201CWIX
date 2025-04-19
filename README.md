@@ -25,7 +25,7 @@ https://www.youtube.com/watch?v=3L_Hhxuh6Zc
 - C2SIMClientLib C++  v4.8.5.3 works with C2SIMServer v.8.4.15 [link](https://cloud.c4i.gmu.edu/index.php/s/6BqFNER5HYfjDRK)
 
 #### C2SIM GUI Editor
-- C2SIMGUI Editor v2.13.27 allows multiple C2SIM Reports per messsage; supports Server initialization with ObjectInitialization files [link](https://cloud.c4i.gmu.edu/index.php/s/wr49bQN2de2A6cJ)
+- C2SIMGUI Editor v2.13.27 allows multiple C2SIM Reports per messsage; supports Server initialization with ObjectInitialization files [link](https://cloud.c4i.gmu.edu/index.php/s/6Mw4CazKinkAS8D)
 - C2SIMGUI Editor v2.13.9 like 2.13.7A (see below) but can display C2SIM Orders received in STOMP; includes User Guide [link](https://github.com/OpenC2SIM/https---github.com-OpenC2SIM-MSG201CWIX/blob/master/C2SIMGUIv2.13.9.zip)
 - C2SIMGUI Editor v2.13.7A like 2.13.5 (see below) but does not filter reports based on Protocol Version [link](https://github.com/OpenC2SIM/https---github.com-OpenC2SIM-MSG201CWIX/blob/master/C2SIMGUIv2.13.7A.zip)
 - C2SIMGUI Editor v2.13.6 like 2.13.5 (see below) but prints first 500 characters of each received STOMP message to console [link](https://github.com/OpenC2SIM/https---github.com-OpenC2SIM-MSG201CWIX/blob/master/C2SIMGUIv2.13.6.zip)
