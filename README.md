@@ -46,7 +46,7 @@ https://www.youtube.com/watch?v=3L_Hhxuh6Zc
 - Server 4.8.4.4 war file beta bug fixes for C2SIM controls + implements both standard initialization and automatic initialization (for use with late join only) plus logging [link](https://github.com/OpenC2SIM/https---github.com-OpenC2SIM-MSG201CWIX/blob/master/C2SIMServer%23%234.8.4.4.war)
 - Server 4.8.4.7 in a runnable Docker container [link](https://github.com/OpenC2SIM/https---github.com-OpenC2SIM-MSG201CWIX/c2sim-docker-4.8.4.7.tar.gz)
 - Server 4.8.4.21 war file implements blocking retransmission of identical reports, for a configurable window of time [link](https://cloud.c4i.gmu.edu/index.php/s/YR27pTs6b9xB9Tx)
-- Server 4.8.4.21 in a runnable Docker container [link](https://cloud.c4i.gmu.edu/index.php/s/T8ssTPzypdkazz4)
+- Server 4.8.4.21 in a runnable Docker container [link](https://cloud.c4i.gmu.edu/index.php/s/Y9b9YsjW7nMTYX4)
 - Documentation for installing Docker version under Linux, MacOS, and WIndows [link](https://cloud.c4i.gmu.edu/index.php/s/dTBDE4Rs2dQWGLJ) 
 
 #### Latest C2SIM Ontologies and Schema
