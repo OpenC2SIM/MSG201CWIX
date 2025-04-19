@@ -55,7 +55,7 @@ https://www.youtube.com/watch?v=3L_Hhxuh6Zc
 - Latest transformation Ontology to Schema XSLT [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIMOntologyToC2SIMSchemaV1.0.1.xslt)
 
 #### C2SIM Sandbox
-- C2SIM Overvewi 1 [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIMoverview2%2Cpdf.pdf)
+-) C2SIM Overvewi 1 [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIMoverview2%2Cpdf.pdf)
 - C2SIM Overview 2 [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIM-Overview1.pdf)
 - C2SIM Sandbox User Guide v2.1.1 [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIM%20SandBox%20User%20Guide%20v2.1.1.pdf)
 - System and security considerations for assembling a C2SIM Sandbox [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/AssemblingC2SIMSandbox.pdf)
