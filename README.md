@@ -14,8 +14,8 @@ https://www.youtube.com/watch?v=3L_Hhxuh6Zc
 
 ### C2SIM Downloads
 #### C2SIM Client Library 
-- C2SIMClientLib Java v4.8.5.7 JAR file and open source compatible with C2SIM Server 4.8.4.19 blocks repeated identical reports within a configurable time window [link](https://cloud.c4i.gmu.edu/index.php/s/MYnJkom4qsxqx9H)
-- C++C2SIMClientLib C++ v4.8.5.7 zip file and open source compatible with C2SIM Server 4.8.4.14 blocks repeated identical reports within a configurable time window [link](previous option out of date - waiting on update)
+- C2SIMClientLib Java v4.8.5.8 JAR file and open source compatible with C2SIM Server 4.8.4.21 blocks repeated identical reports within a configurable time window [link](https://cloud.c4i.gmu.edu/index.php/s/TQrwxgGfYNKkbsj)
+- C++C2SIMClientLib C++ v4.8.5.8 zip file and open source compatible with C2SIM Server 4.8.4.14 blocks repeated identical reports within a configurable time window [link](previous option, out of date - waiting on update)
 - C2SIMClientLib Java v4.8.4.1 JAR file only [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIMClientLibv4.8.4.1bindary.zip)
 - C2SIMClientLib Java v4.8.3.1 JAR file revised to comply with sequence of elements in C2SIM header per SISO C2SIM standard [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIMClientLibv4.8.3.1.zip)
 - C2SIMClientLib C++ v4.8.3.1 Windows binary library and header files revised to comply with sequence of elements in C2SIM header per SISO C2SIM standards [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C%2B%2BC2SIMClientLibBinaryv4.8.3.1.zip) 
@@ -25,7 +25,7 @@ https://www.youtube.com/watch?v=3L_Hhxuh6Zc
 - C2SIMClientLib C++  v4.8.5.3 works with C2SIMServer v.8.4.15 [link](https://cloud.c4i.gmu.edu/index.php/s/6BqFNER5HYfjDRK)
 
 #### C2SIM GUI Editor
-- C2SIMGUI Editor v2.13.26 allows multiple C2SIM Reports per messsage [link](https://cloud.c4i.gmu.edu/index.php/s/wr49bQN2de2A6cJ)
+- C2SIMGUI Editor v2.13.27 allows multiple C2SIM Reports per messsage; supports Server initialization with ObjectInitialization files [link](https://cloud.c4i.gmu.edu/index.php/s/wr49bQN2de2A6cJ)
 - C2SIMGUI Editor v2.13.9 like 2.13.7A (see below) but can display C2SIM Orders received in STOMP; includes User Guide [link](https://github.com/OpenC2SIM/https---github.com-OpenC2SIM-MSG201CWIX/blob/master/C2SIMGUIv2.13.9.zip)
 - C2SIMGUI Editor v2.13.7A like 2.13.5 (see below) but does not filter reports based on Protocol Version [link](https://github.com/OpenC2SIM/https---github.com-OpenC2SIM-MSG201CWIX/blob/master/C2SIMGUIv2.13.7A.zip)
 - C2SIMGUI Editor v2.13.6 like 2.13.5 (see below) but prints first 500 characters of each received STOMP message to console [link](https://github.com/OpenC2SIM/https---github.com-OpenC2SIM-MSG201CWIX/blob/master/C2SIMGUIv2.13.6.zip)
@@ -45,8 +45,9 @@ https://www.youtube.com/watch?v=3L_Hhxuh6Zc
 - Server 4.8.3.7 war file bug fixes for C2SIM controls + implements Checkpoint Save/Revert [link](https://github.com/OpenC2SIM/https---github.com-OpenC2SIM-MSG201CWIX/blob/master/C2SIMServer%23%234.8.3.7.war)
 - Server 4.8.4.4 war file beta bug fixes for C2SIM controls + implements both standard initialization and automatic initialization (for use with late join only) plus logging [link](https://github.com/OpenC2SIM/https---github.com-OpenC2SIM-MSG201CWIX/blob/master/C2SIMServer%23%234.8.4.4.war)
 - Server 4.8.4.7 in a runnable Docker container [link](https://github.com/OpenC2SIM/https---github.com-OpenC2SIM-MSG201CWIX/c2sim-docker-4.8.4.7.tar.gz)
-- Server 4.8.4.19 war file implements blocking retransmission of identical reports, for a configurable window of time [link](https://cloud.c4i.gmu.edu/index.php/s/mQ4cfPo8dZzzKT4)
-- Server 4.8.4.19 in a runnable Docker container [link](https://cloud.c4i.gmu.edu/index.php/s/DESmPJq4wKWzYA6)
+- Server 4.8.4.21 war file implements blocking retransmission of identical reports, for a configurable window of time [link](https://cloud.c4i.gmu.edu/index.php/s/YR27pTs6b9xB9Tx)
+- Server 4.8.4.21 in a runnable Docker container [link](https://cloud.c4i.gmu.edu/index.php/s/T8ssTPzypdkazz4)
+- Documentation for installing Docker version under Linux, MacOS, and WIndows [link](https://cloud.c4i.gmu.edu/index.php/s/dTBDE4Rs2dQWGLJ) 
 
 #### Latest C2SIM Ontologies and Schema
 - Trial composite schema (Core/SMX/LOX)schema for MSG-201 CWIX 2023 version 1 [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIM_SMX_LOX_CWIX2023v2.xsd)
