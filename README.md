@@ -14,7 +14,7 @@ https://www.youtube.com/watch?v=3L_Hhxuh6Zc
 
 ### C2SIM Downloads
 #### C2SIM Client Library 
-- C2SIMClientLib Java v4.8.5.8 JAR file and open source compatible with C2SIM Server 4.8.4.21 blocks repeated identical reports within a configurable time window [link](https://cloud.c4i.gmu.edu/index.php/s/TQrwxgGfYNKkbsj)
+- C2SIMClientLib Java v4.8.5.8 JAR file and open source compatible with C2SIM Server 4.8.4.21 blocks repeated identical reports within a configurable time window [link](https://cloud.c4i.gmu.edu/index.php/s/T8ssTPzypdkazz4)
 - C++C2SIMClientLib C++ v4.8.5.8 zip file and open source compatible with C2SIM Server 4.8.4.14 blocks repeated identical reports within a configurable time window [link](previous option, out of date - waiting on update)
 - C2SIMClientLib Java v4.8.4.1 JAR file only [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIMClientLibv4.8.4.1bindary.zip)
 - C2SIMClientLib Java v4.8.3.1 JAR file revised to comply with sequence of elements in C2SIM header per SISO C2SIM standard [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIMClientLibv4.8.3.1.zip)
@@ -46,7 +46,7 @@ https://www.youtube.com/watch?v=3L_Hhxuh6Zc
 - Server 4.8.4.4 war file beta bug fixes for C2SIM controls + implements both standard initialization and automatic initialization (for use with late join only) plus logging [link](https://github.com/OpenC2SIM/https---github.com-OpenC2SIM-MSG201CWIX/blob/master/C2SIMServer%23%234.8.4.4.war)
 - Server 4.8.4.7 in a runnable Docker container [link](https://github.com/OpenC2SIM/https---github.com-OpenC2SIM-MSG201CWIX/c2sim-docker-4.8.4.7.tar.gz)
 - Server 4.8.4.21 war file implements blocking retransmission of identical reports, for a configurable window of time [link](https://cloud.c4i.gmu.edu/index.php/s/YR27pTs6b9xB9Tx)
-- Server 4.8.4.21 in a runnable Docker container [link](https://cloud.c4i.gmu.edu/index.php/s/Y9b9YsjW7nMTYX4)
+- Server 4.8.4.21 in a runnable Docker container [link](https://cloud.c4i.gmu.edu/index.php/s/T8ssTPzypdkazz4)
 - Documentation for installing Docker version under Linux, MacOS, and WIndows [link](https://cloud.c4i.gmu.edu/index.php/s/Y9b9YsjW7nMTYX4)
 
 #### Latest C2SIM Ontologies and Schema
